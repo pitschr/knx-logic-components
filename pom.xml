@@ -23,7 +23,7 @@
     <packaging>pom</packaging>
     <groupId>li.pitschmann</groupId>
     <artifactId>knx-logic-components</artifactId>
-    <version>0.2.1-SNAPSHOT</version>
+    <version>0.3.0-SNAPSHOT</version>
     <name>KNX Logic Components</name>
     <description>Logic Components for KNX Logic</description>
 
@@ -84,8 +84,8 @@
         <version.maven-release-plugin>2.5.3</version.maven-release-plugin> <!-- Apache 2.0 -->
         <version.maven-surefire-plugin>2.22.2</version.maven-surefire-plugin> <!-- Apache 2.0 -->
         <!-- Dependency Versions and Licenses -->
-        <version.knx-logic>0.2.1-SNAPSHOT</version.knx-logic> <!-- GPL 3.0 -->
-        <version.knx-logic-testsuite>0.2.1-SNAPSHOT</version.knx-logic-testsuite> <!-- GPL 3.0 -->
+        <version.knx-logic>0.3.0-SNAPSHOT</version.knx-logic> <!-- GPL 3.0 -->
+        <version.knx-logic-testsuite>0.3.0-SNAPSHOT</version.knx-logic-testsuite> <!-- GPL 3.0 -->
         <version.junit-jupiter-engine>5.7.0</version.junit-jupiter-engine> <!-- EPL 2.0 -->
         <version.junit-platform-runner>1.7.0</version.junit-platform-runner> <!-- EPL 2.0 -->
         <!-- Default Argument Line for Surefire for test stability -->
